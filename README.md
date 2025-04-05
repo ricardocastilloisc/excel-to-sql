@@ -7,14 +7,6 @@ No backend required — just drag & drop your file and get ready-to-use `CREATE 
 Convierte archivos Excel (`.xlsx`) en sentencias SQL directamente desde tu navegador.  
 No necesitas backend — simplemente arrastra y suelta tu archivo para obtener las sentencias `CREATE TABLE` e `INSERT INTO` listas para usar.
 
----
-
-## 🌐 Live Demo / Demo en línea
-
-> _Coming soon_ — You can deploy it using [Vercel](https://vercel.com), [Netlify](https://netlify.com), or your preferred static host.  
-> _Próximamente_ — Puedes desplegarlo en [Vercel](https://vercel.com), [Netlify](https://netlify.com) o tu proveedor estático favorito.
-
----
 
 ## 🎯 Purpose / Finalidad
 
@@ -92,4 +84,4 @@ Este proyecto personal fue creado para agilizar el proceso de importar datos des
 
 ## 📄 License / Licencia
 
-MIT © 2025 — Developed by [Tu Nombre o Usuario]
+MIT © 2025 — Developed by Ricardo Orlando Castillo Olivera
